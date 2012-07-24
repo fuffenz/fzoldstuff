@@ -1,0 +1,17 @@
+/* style.css for oldstuff plugin */
+
+.fzoldstuff {
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+	border: 1px solid #000000;
+	margin-bottom: 10px;
+	background-color: white;
+	text-align: center;
+}
+.fzyellow {
+	background-color: #F7F5C6;
+}
+.fzred {
+	background-color: red;
+}
